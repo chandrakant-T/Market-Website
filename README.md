@@ -22,7 +22,7 @@ A simple and responsive market website showcasing a list of fruits with their pr
    ```
 3. **Open the `index.html` file in your browser:**
    ```bash
-   open index.html
+   open market.html
    ```
 
 ## 📧 Contact
